@@ -35,11 +35,11 @@ CHUNK_OVERLAP_RATIO = 0.12          # 12% overlap between sequential chunks
 MAX_CHUNK_CHARS = 1500              # approx 375 tokens at 4 chars/token
 
 CATEGORY_KEYWORDS: Dict[str, List[str]] = {
-    "Travel": ["travel", "trip", "hotel", "flight", "per diem", "expense", "visa", "passport"],
-    "Security": ["security", "password", "mfa", "vpn", "byod", "phishing", "data classification", "breach", "incident"],
-    "HR": ["hr", "leave", "absence", "conduct", "harassment", "onboarding", "offboarding", "termination"],
-    "Learning": ["learning", "training", "tuition", "certification", "conference", "stipend", "lms", "learnhub"],
-    "Finance": ["finance", "reimbursement", "expense", "budget", "invoice", "paycheck", "clawback"],
+    "Travel": ["travel", "trip", "hotel", "flight", "per diem", "expense", "visa", "passport", "transportation"],
+    "Security": ["security", "password", "mfa", "vpn", "byod", "phishing", "data classification", "breach", "incident", "zero trust"],
+    "HR": ["hr", "leave", "absence", "conduct", "harassment", "onboarding", "offboarding", "termination", "resignation"],
+    "Learning": ["learning", "training", "tuition", "certification", "conference", "stipend", "lms", "learnhub", "l&d", "development", "approval", "job level", "individual contributor", "reimbursement", "degree", "academic", "tap", "clawback"],
+    "Finance": ["finance", "budget", "invoice", "paycheck", "tax", "irs"],
     "Legal": ["gdpr", "ccpa", "pci", "compliance", "legal", "regulatory", "audit"],
     "IT": ["it", "software", "shadow it", "procurement", "saas", "api", "database", "cloud"],
 }
