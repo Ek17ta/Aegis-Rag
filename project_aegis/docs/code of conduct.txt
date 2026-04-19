@@ -1,0 +1,119 @@
+# Human Resources Policy: Global Code of Conduct and Disciplinary Procedures
+**Document ID:** HR-POL-5050-V4
+**Effective Date:** March 1, 2026
+**Last Revised:** January 15, 2026
+**Policy Owner:** Chief Human Resources Officer (CHRO) & Office of the General Counsel
+**Applies To:** All global employees, board members, independent contractors, and vendors operating on company premises or accessing company networks.
+
+---
+
+## Table of Contents
+1. Core Philosophy and Expected Standards
+2. Reporting Mechanisms and The Ethics Hotline
+3. Non-Retaliation and Whistleblower Protection
+4. Investigation Protocols and Timelines
+5. Categorization of Policy Violations
+6. Progressive Disciplinary Process
+7. Zero-Tolerance Behaviors and Immediate Termination
+8. Anti-Harassment and Non-Discrimination Policy
+9. Conflicts of Interest, Gifts, and Bribery
+10. Substance Abuse and Alcohol Consumption
+11. Appeals and Grievance Procedures
+
+---
+
+## 1. Core Philosophy and Expected Standards
+The organization is committed to maintaining a safe, respectful, and legally compliant work environment. The Global Code of Conduct ("The Code") is not merely a set of rules, but the ethical foundation of our corporate culture. Every employee is expected to act with integrity, protect company assets, and treat colleagues, clients, and vendors with dignity. Ignorance of The Code is not a valid defense against disciplinary action.
+
+## 2. Reporting Mechanisms and The Ethics Hotline
+The organization requires all employees to report suspected violations of The Code, local laws, or financial irregularities immediately.
+
+### 2.1 Available Reporting Channels
+Employees may report incidents through any of the following channels:
+1.  **Direct Manager:** The primary point of contact for resolving minor team disputes.
+2.  **HR Business Partner (HRBP):** For interpersonal conflicts or policy clarifications.
+3.  **Global Ethics Hotline:** A 24/7, third-party-operated phone line and web portal available in 14 languages. Reports to the hotline can be made completely anonymously.
+
+### 2.2 Mandatory Reporting for Management
+Managers and Supervisors hold a fiduciary duty to the organization. If a manager observes a Level 2 or Level 3 violation, or if an employee reports such a violation to them, the manager **must** report the incident to Human Resources within 24 hours. Failure by a manager to report a known violation constitutes a Level 2 disciplinary offense in itself.
+
+## 3. Non-Retaliation and Whistleblower Protection
+The organization enforces a strict, absolute prohibition against retaliation.
+* **Definition:** Retaliation includes termination, demotion, pay reduction, exclusion from meetings, hostile behavior, or unwarranted negative performance reviews directed at an employee because they reported a suspected violation in good faith or participated in an HR investigation.
+* **Consequence:** Any employee, regardless of rank, found to have retaliated against a whistleblower will face immediate Level 3 disciplinary action, up to and including termination.
+
+## 4. Investigation Protocols and Timelines
+All reports of Level 2 and Level 3 violations will prompt an official internal investigation led by Employee Relations (ER) or the Legal Department.
+
+* **Confidentiality:** Investigations are conducted with the utmost confidentiality. Information is shared strictly on a "need-to-know" basis.
+* **Administrative Leave:** During an investigation into severe misconduct (e.g., violence, fraud), the accused employee may be placed on Paid Administrative Leave. This is not a disciplinary action, but a protective measure to ensure the integrity of the investigation.
+* **Timelines:** The ER team is mandated to open an investigation within three (3) business days of receiving a report. A formal conclusion and written summary must be delivered to the involved parties within thirty (30) calendar days, barring complex legal delays.
+
+## 5. Categorization of Policy Violations
+Misconduct is categorized into three levels of severity to ensure disciplinary responses are proportionate and equitable.
+
+### Level 1: Minor Infractions
+Behaviors that disrupt team efficiency but do not cause material harm to the organization or colleagues.
+* *Examples:* Habitual tardiness, unexcused absence from internal meetings, dress code violations, minor misuse of company equipment (e.g., using a corporate printer for personal documents).
+
+### Level 2: Moderate Misconduct
+Actions that violate core company policies, cause reputational damage, or negatively impact the working environment.
+* *Examples:* Insubordination, failure to adhere to the *Standard Travel Policy (TRV-POL-1001-V4)* regarding per diem limits, aggressive communication, unauthorized external sharing of non-sensitive internal documents, or repeated Level 1 infractions.
+
+### Level 3: Severe Misconduct (Zero-Tolerance)
+Actions that are illegal, physically dangerous, or represent a fundamental breach of trust.
+* *Examples:* Expense fraud, physical violence, sexual harassment, corporate espionage, working under the influence of illicit substances, or intentional data sabotage.
+
+## 6. Progressive Disciplinary Process
+For Level 1 and Level 2 violations, the organization utilizes a progressive disciplinary model designed to correct behavior rather than merely punish. 
+
+### Step 1: Documented Verbal Warning
+The manager meets with the employee to discuss the specific behavior, outline expected changes, and establish a timeline for improvement. A brief note confirming the conversation took place is placed in the employee’s HR file for six (6) months.
+
+### Step 2: Written Warning and PIP
+If the behavior persists, or for a first-time Level 2 violation, a formal Written Warning is issued in conjunction with HR. The employee may be placed on a Performance Improvement Plan (PIP) lasting 30, 60, or 90 days. Failure to meet the specific milestones outlined in the PIP will result in escalation to Step 3 or 4.
+
+### Step 3: Final Written Warning / Unpaid Suspension
+This is the final opportunity for the employee to correct their behavior. Depending on local labor laws, the employee may be subject to a 1-to-3 day unpaid suspension. During a Final Written Warning period (typically 12 months), the employee is ineligible for promotions, internal transfers, or annual performance bonuses.
+
+### Step 4: Termination of Employment
+If the progressive steps fail to correct the behavior, employment is terminated for cause.
+
+## 7. Zero-Tolerance Behaviors and Immediate Termination
+The Progressive Disciplinary Process (Section 6) **does not apply** to Level 3 Sever Misconduct. The organization reserves the right to bypass progressive discipline and move immediately to Termination for Cause for the following offenses:
+* **Expense Fraud:** Fabricating receipts or claiming personal expenses as corporate travel (cross-reference *TRV-POL-3012-V2* regarding dual-reimbursement of mileage and fuel).
+* **Theft:** Stealing physical property, intellectual property, or digital assets.
+* **Violence:** Actual or threatened physical violence, or bringing a weapon onto corporate premises.
+* **Egregious Harassment:** Severe, documented instances of sexual harassment or racial discrimination.
+
+## 8. Anti-Harassment and Non-Discrimination Policy
+The organization is an Equal Opportunity Employer and strictly prohibits discrimination or harassment based on race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity, or expression.
+
+### 8.1 Types of Prohibited Harassment
+* **Quid Pro Quo:** Occurs when an employment decision (promotion, hiring, salary increase) is based on an employee's submission to or rejection of unwelcome sexual advances. This is strictly prohibited.
+* **Hostile Work Environment:** Occurs when unwelcome conduct (offensive jokes, slurs, physical intimidation, sharing inappropriate imagery) is so severe or pervasive that it creates an intimidating or abusive work environment.
+
+## 9. Conflicts of Interest, Gifts, and Bribery
+Employees must base business decisions solely on what is best for the organization, free from personal bias or financial gain.
+
+### 9.1 Outside Employment (Moonlighting)
+Employees may not engage in outside employment, consulting, or board memberships that compete directly with the organization or require time commitments that interfere with their primary job duties. All secondary employment must be disclosed and approved by HR in writing.
+
+### 9.2 The Gift Policy
+To prevent bribery and undue influence, employees must adhere to strict limitations regarding the giving and receiving of gifts from clients, vendors, or competitors.
+* **Receiving Gifts:** Employees may accept nominal gifts (e.g., branded pens, notebooks, holiday fruit baskets) provided the total value does not exceed **$50.00 USD** per vendor, per calendar year. Any gift exceeding this value must be politely returned or surrendered to HR to be raffled for charity.
+* **Providing Gifts:** Providing gifts to external parties must comply with the *Procurement and Vendor Payment Policy*. Note: The $50 gift limit differs from the $150 Client Entertainment limit outlined in the travel policy; meals and entertainment are not considered "gifts" under this section.
+* **Government Officials:** Providing anything of value to a domestic or foreign government official to secure business is a violation of the Foreign Corrupt Practices Act (FCPA) and will result in immediate termination and legal prosecution.
+
+## 10. Substance Abuse and Alcohol Consumption
+The organization strictly prohibits the possession, distribution, sale, or use of illegal drugs on company premises or while conducting company business. 
+
+### 10.1 Alcohol in the Workplace
+Being intoxicated in the office is a Level 3 violation. However, the organization recognizes two specific exceptions where moderate alcohol consumption is permitted:
+1.  **Approved Corporate Events:** Holiday parties or milestone celebrations held on-premises, provided the alcohol is supplied by the company and consumed responsibly.
+2.  **Client Entertainment:** As defined in the *Corporate Travel Policy (TRV-POL-1001-V4)*, employees may consume alcohol during approved client dinners, provided the employee maintains professional decorum and the cost of the alcohol does not exceed 30% of the total bill.
+
+## 11. Appeals and Grievance Procedures
+Employees who believe they have been unfairly disciplined (excluding Termination for Cause) have the right to appeal the decision.
+* Appeals must be submitted in writing to the VP of Human Resources within seven (7) calendar days of the disciplinary action.
+* The VP of HR (or an appointed neutral executive) will review the investigation files, conduct supplementary interviews if necessary, and render a final, binding decision within fourteen (14) days.

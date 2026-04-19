@@ -1,0 +1,182 @@
+# Corporate Travel Policy: Standard and Client-Facing Operations
+**Document ID:** TRV-POL-1001-V4
+**Effective Date:** January 1, 2026
+**Last Revised:** November 15, 2025
+**Policy Owner:** Global Corporate Travel and Expense Management (GCTEM)
+**Applies To:** All full-time, part-time, and contracted personnel engaging in standard domestic or client-facing travel on behalf of the organization.
+
+---
+
+## Table of Contents
+1. Introduction, Purpose, and Philosophy
+2. Scope and Applicability
+3. Roles, Responsibilities, and Approvals
+4. Pre-Travel Authorization Protocols
+5. Air Travel Guidelines and Restrictions
+6. Ground Transportation and Vehicle Policies
+7. Lodging and Accommodation Standards
+8. Meals, Incidentals, and Client Entertainment
+9. Telecommunications and Technology
+10. Travel Safety, Security, and Emergency Management
+11. Expense Reconciliation and Auditing Procedures
+12. Comprehensive Non-Reimbursable Expenses
+13. Exceptions and Policy Waivers
+14. Glossary of Terms
+
+---
+
+## 1. Introduction, Purpose, and Philosophy
+The purpose of this Standard and Client-Facing Operations Travel Policy (herein referred to as the "Policy") is to establish clear, consistent, and equitable guidelines for employees who travel for business purposes. The organization is committed to ensuring that employees travel safely, comfortably, and cost-effectively. This policy is designed to balance the organization's fiduciary responsibility to shareholders with the comfort, safety, and productivity of our traveling workforce. 
+
+Business travel is defined as travel required by the organization to conduct official business, including but not limited to client meetings, site visits, inter-office collaboration, and authorized training. This document serves as the single source of truth for standard travel. For international travel, conference attendance, or long-term relocations, employees must cross-reference the respective addendums in the Global Policy Directory.
+
+## 2. Scope and Applicability
+This Policy applies to all personnel—including executives, full-time employees, part-time employees, interns, and authorized independent contractors—who incur travel and entertainment expenses on behalf of the organization. 
+
+If an employee's travel is funded by a third party (e.g., a client reimbursing the company for travel costs), the stricter of the two policies (the company's policy or the client's policy) shall apply. Any local, state, or national laws that contradict this policy will supersede the guidelines outlined within this document. Contractors and vendors are subject to this policy unless explicitly exempted in their Master Services Agreement (MSA) or Statement of Work (SOW).
+
+## 3. Roles, Responsibilities, and Approvals
+The management of corporate travel requires a coordinated effort across multiple departments.
+
+* **The Traveler:** The individual conducting business travel is responsible for understanding and complying with this policy, exercising good judgment regarding company funds, securing all necessary approvals prior to booking, submitting expense reports accurately and within the stipulated 30-day timeframe, and maintaining possession of itemized receipts for any transaction exceeding $25.00 USD.
+* **The Approving Manager:** The direct supervisor (or designated delegate) is responsible for verifying the business purpose of the travel, ensuring the travel aligns with departmental budgets, reviewing expense reports for compliance and reasonableness, and identifying and reporting any policy violations to the Finance Department.
+* **Global Corporate Travel and Expense Management (GCTEM):** GCTEM is responsible for managing relationships with travel vendors (airlines, hotel chains, rental car agencies), updating this policy annually, conducting audits on travel expenditures, and maintaining the internal corporate booking tool (TripIt Corporate Navigator).
+* **Finance and Accounts Payable:** Responsible for the timely processing of approved expense reports, reimbursement of funds to employees within two payroll cycles, and executing secondary audits on all expense reports containing line items exceeding $1,000 USD.
+
+## 4. Pre-Travel Authorization Protocols
+All business travel must be pre-approved before any non-refundable purchases are made. The authorization workflow is dictated by the estimated total cost of the trip, not including potential client entertainment.
+
+### 4.1 Approval Matrix
+| Estimated Trip Cost | Primary Approval Required | Secondary Approval Required | Minimum Lead Time |
+| :--- | :--- | :--- | :--- |
+| $0 - $999 | Direct Line Manager | None | 7 Days |
+| $1,000 - $2,999 | Department Director | None | 14 Days |
+| $3,000 - $9,999 | Vice President | Finance Controller | 21 Days |
+| $10,000+ | C-Suite Executive | CFO | 30 Days |
+
+### 4.2 Booking Channels
+All travel (flights, hotels, and rental cars) MUST be booked through the TripIt Corporate Navigator portal or directly with the organization’s designated Travel Management Company (TMC) via phone. Booking through external, third-party consumer sites (e.g., Expedia, Kayak, Hotels.com) or directly with providers to accumulate personal loyalty points is strictly prohibited and constitutes a Level 1 Policy Violation.
+
+## 5. Air Travel Guidelines and Restrictions
+The organization prioritizes cost-efficiency and traveler safety in all air travel arrangements.
+
+### 5.1 Class of Service
+The standard class of service for all domestic business travel is basic economy or standard economy. Upgrades are generally not reimbursable.
+* **Standard Flights (Under 6 hours of continuous flight time):** Economy Class only. Employees may purchase "Main Cabin Extra" or preferred seating at their own expense; this is not reimbursable.
+* **Extended Flights (Over 6 hours of continuous flight time):** For domestic flights (e.g., New York to Honolulu) exceeding 6 hours of continuous airtime, employees are permitted to book Premium Economy. Business Class is strictly reserved for C-Suite executives or requires explicit written exemption from the CFO.
+* **Flight Cancellations and Credits:** If an employee cancels a flight booked with company funds, the resulting airline credit must be logged in the TMC portal and used for future corporate travel. Under no circumstances may an employee use a corporate-generated airline credit for personal travel.
+
+### 5.2 Baggage Allowances
+The organization will reimburse the cost of one (1) standard checked bag per traveler. Overweight baggage fees are non-reimbursable unless the traveler is transporting company equipment (e.g., tradeshow booths, server hardware) and has documented pre-approval. For trips exceeding seven (7) consecutive days, the organization will reimburse up to two (2) standard checked bags.
+
+### 5.3 Frequent Flyer Programs
+Travelers may retain frequent flyer miles and other loyalty points accrued during business travel. However, travelers must not select a higher-priced flight or a non-preferred carrier solely to accumulate personal loyalty points. 
+
+## 6. Ground Transportation and Vehicle Policies
+Travelers should choose the most practical, safe, and cost-effective method of ground transportation available.
+
+### 6.1 Rental Vehicles
+Rental cars are permitted when they are the most economical means of transport, or when public transportation and rideshares are unavailable or impractical (e.g., traveling to multiple remote client sites in a single day).
+* **Authorized Vendors:** Enterprise Rent-A-Car and National Car Rental are the preferred vendors.
+* **Vehicle Class:** Travelers must book an Intermediate or Standard class vehicle. SUVs, luxury vehicles, and sports cars are prohibited unless a free upgrade is provided by the vendor.
+* **Insurance:** The organization provides comprehensive and collision insurance for vehicles rented for corporate business. Travelers MUST decline the Collision Damage Waiver (CDW) and Liability Insurance Supplement (LIS) offered by the rental agency. Purchasing additional insurance from the rental agency is non-reimbursable.
+* **Fuel:** Rental cars must be returned with a full tank of gas. Travelers should refuel the vehicle themselves prior to return. Prepaid fuel options offered by the rental agency (where you pay for a full tank upfront) are non-reimbursable.
+
+### 6.2 Rideshares and Taxis
+Rideshare applications (Uber, Lyft) and licensed taxis are approved for transportation between the airport, hotel, and client locations. Employees should select the standard tier of service (e.g., UberX, Lyft Standard). Premium tiers (Uber Black, Lyft Lux) are prohibited unless the traveler is accompanied by a client.
+
+### 6.3 Personal Vehicle Usage
+Employees may use their personal vehicles for business travel if it is more economical than renting a car or booking airfare. 
+* **Mileage Reimbursement:** Mileage will be reimbursed at the standard IRS rate for the current calendar year (e.g., $0.67 per mile for 2026). This rate is designed to cover fuel, maintenance, and depreciation; therefore, employees cannot expense gas receipts when driving a personal vehicle.
+* **Commute Deduction:** The distance of the employee's standard commute to their primary office must be deducted from the total trip mileage if the travel originates from the employee's home during normal business days.
+
+## 7. Lodging and Accommodation Standards
+Employees are expected to stay in safe, comfortable, and reasonably priced hotels. The organization has negotiated corporate rates with major hotel chains (Marriott, Hilton, and Hyatt).
+
+### 7.1 Nightly Rate Thresholds
+Lodging costs must fall within the maximum nightly rate limits defined by the destination's City Tier. These thresholds exclude local occupancy taxes and resort fees.
+
+| Destination Tier | Example Locations | Maximum Nightly Rate (Excluding Taxes) |
+| :--- | :--- | :--- |
+| **Tier 1 (Premium)** | New York, San Francisco, Boston, Washington D.C., Los Angeles | $375.00 USD |
+| **Tier 2 (Major)** | Chicago, Seattle, Austin, Denver, Miami, Atlanta | $285.00 USD |
+| **Tier 3 (Standard)** | All other domestic locations not listed above | $195.00 USD |
+
+### 7.2 Alternative Accommodations
+The use of short-term rental services (e.g., Airbnb, Vrbo) is permitted only if the total nightly cost (including cleaning and service fees) falls strictly below the City Tier threshold, and the stay exceeds five (5) consecutive nights. Due to duty-of-care and safety tracking limitations, alternative accommodations require secondary approval from the Department Director.
+
+### 7.3 Cancellations and No-Shows
+Travelers are responsible for canceling hotel reservations in accordance with the property's cancellation policy. The organization will not reimburse "no-show" fees or late cancellation penalties unless the delay was caused by severe weather, canceled flights, or an acute medical emergency.
+
+## 8. Meals, Incidentals, and Client Entertainment
+The organization utilizes a Per Diem allowance system for standard employee meals during travel, and an actual-cost reimbursement model for client entertainment.
+
+### 8.1 Employee Meal Per Diems
+Travelers are allotted a daily per diem for meals and incidentals (M&IE). Receipts are not required to be submitted for expenses that fall under the per diem allowance, as the allowance is a fixed daily rate.
+* **Standard Per Diem:** $85.00 USD per full day of travel.
+* **Travel Days (First and Last Day):** Prorated to 75% of the standard per diem ($63.75 USD).
+* **Provided Meals:** If a meal is provided during the travel (e.g., a catered lunch at a conference, or a dinner paid for by a client), the traveler must deduct the corresponding amount from their daily per diem claim: Breakfast (-$20), Lunch (-$25), Dinner (-$40).
+* **Alcohol:** Alcoholic beverages consumed during standard employee travel (not involving clients) are strictly non-reimbursable and cannot be purchased using corporate credit cards.
+
+### 8.2 Client Entertainment
+Client entertainment expenses are distinct from employee per diems and require itemized receipts, regardless of the amount. 
+* **Definition:** A business meal or entertainment event involving at least one external client, prospect, or vendor, where active business discussions take place.
+* **Thresholds:** Client meals should not exceed $150.00 USD per attendee (including tax and tip).
+* **Alcohol at Client Events:** Alcohol is permitted during client entertainment, provided it is consumed responsibly and does not exceed 30% of the total event bill. 
+* **Documentation:** To comply with tax regulations, expense reports for client entertainment must include the names, titles, and company affiliations of all attendees, as well as a specific description of the business discussed.
+
+## 9. Telecommunications and Technology
+The organization supports connectivity during business travel to maintain productivity.
+
+### 9.1 In-Flight Wi-Fi
+In-flight Wi-Fi passes are reimbursable for flights exceeding two (2) hours, provided the traveler uses the time to conduct official business. Monthly or annual airline Wi-Fi subscriptions are prohibited.
+
+### 9.2 Hotel Connectivity
+Standard hotel Wi-Fi should be utilized whenever possible. If standard Wi-Fi is inadequate for secure or high-bandwidth tasks (e.g., large file transfers, video conferencing), the purchase of premium hotel internet is reimbursable.
+
+### 9.3 Lost or Damaged Equipment
+If company-issued technology (laptops, mobile phones) is lost, stolen, or damaged during travel, the employee must file a report with local authorities (if stolen) and notify the IT Security Desk within 12 hours. The cost of replacement will be borne by the organization, but negligence may result in disciplinary review.
+
+## 10. Travel Safety, Security, and Emergency Management
+The organization's primary concern is the safety and well-being of its employees. The Duty of Care program is managed by the GCTEM in partnership with external security providers.
+
+### 10.1 Itinerary Tracking
+All travel booked through the TripIt Corporate Navigator is automatically synced with the organization's global security dashboard. Employees booking approved alternative accommodations must manually enter their itinerary details into the security dashboard at least 48 hours prior to departure.
+
+### 10.2 Medical Emergencies
+If an employee experiences a medical emergency while traveling, they should immediately seek local medical attention. The organization provides supplemental travel medical insurance that covers emergency room visits, urgent care, and medical evacuation if necessary. Routine medical care or pharmacy purchases (e.g., aspirin, cold medicine) are non-reimbursable incidentals.
+
+## 11. Expense Reconciliation and Auditing Procedures
+Timely and accurate expense reporting is mandatory for compliance and cash flow management.
+
+### 11.1 Submission Timeline
+All expense reports must be submitted via the Workday Expense module within thirty (30) calendar days of the trip's conclusion. Reports submitted after 30 days will require written justification and approval from the VP of Finance. Reports submitted after sixty (60) days will be permanently denied, and the employee will be personally responsible for the charges.
+
+### 11.2 Receipt Requirements
+Itemized receipts are required for all individual expenses exceeding $25.00 USD, with the exception of per diem claims. Credit card summary slips that do not show an itemized breakdown of goods purchased are invalid and will be rejected by Accounts Payable.
+
+### 11.3 Audits
+The Finance Department conducts randomized audits on 15% of all submitted expense reports, utilizing AI-driven anomaly detection software. The software checks for duplicate submissions, non-compliant dates, and prohibited vendor categories. 
+
+## 12. Comprehensive Non-Reimbursable Expenses
+The following items are explicitly categorized as non-reimbursable personal expenses. This list is not exhaustive but represents common infractions:
+* Airline club or airport lounge memberships (unless specifically included in a C-Suite benefits package).
+* Childcare, babysitting, or pet-boarding fees incurred while the employee is traveling.
+* Traffic citations, speeding tickets, or parking fines.
+* Personal grooming services (haircuts, manicures, shoe shines).
+* In-room hotel entertainment (pay-per-view movies, minibar restocks).
+* Clothing or luggage purchases, including formal wear rentals for events.
+* Gym fees or health club access passes.
+* Dependent travel costs (expenses related to bringing a spouse, partner, or child on a business trip).
+
+## 13. Exceptions and Policy Waivers
+The organization recognizes that extraordinary circumstances may arise that require deviation from this policy. 
+
+Any exception to this policy must be documented and approved in writing (via email or Workday memo) by a Vice President or higher prior to the expense being incurred. After-the-fact exception requests will be categorically denied. If an employee is traveling under emergency conditions (e.g., responding to a critical client outage), verbal approval from a Director may be accepted, provided it is followed by written documentation within 24 hours.
+
+## 14. Glossary of Terms
+* **CDW (Collision Damage Waiver):** Optional insurance offered by car rental companies that waives the renter's liability for damage to the vehicle. This must be declined by employees.
+* **GCTEM:** Global Corporate Travel and Expense Management team.
+* **Incidentals:** Minor expenditures associated with travel, such as baggage handler tips, bellhop gratuities, and quick snacks, which are intended to be covered by the daily per diem.
+* **Per Diem:** A specific amount of money given to an employee per day to cover living expenses (meals and incidentals) when traveling for work.
+* **TMC (Travel Management Company):** The external agency contracted by the organization to facilitate and support corporate travel bookings.

@@ -1,0 +1,88 @@
+# Global IT Security, Data Classification, and Acceptable Use Policy
+**Document ID:** SEC-POL-8005-V7
+**Effective Date:** June 1, 2026
+**Last Revised:** April 15, 2026
+**Policy Owner:** Chief Information Security Officer (CISO)
+**Applies To:** All employees, contractors, third-party vendors, and any entity with provisioned access to the corporate network or data infrastructure.
+
+---
+
+## Table of Contents
+1. Security Philosophy and Zero-Trust Architecture
+2. Data Classification Matrix
+3. Acceptable Use of Corporate Systems
+4. Bring Your Own Device (BYOD) and Mobile Management
+5. Password Policies and Authentication
+6. Data Privacy and Handling of PII/Financial Data
+7. Incident Response and Breach Reporting SLAs
+8. Software Procurement and "Shadow IT"
+9. Offboarding and Access Revocation
+
+---
+
+## 1. Security Philosophy and Zero-Trust Architecture
+The organization operates on a "Zero-Trust" security model. Access to corporate resources is granted strictly on the principle of least privilege (PoLP) and requires continuous verification. Trust is never assumed based on network location (e.g., being in a corporate office does not grant implicit access to internal databases).
+
+## 2. Data Classification Matrix
+All data created, processed, or stored by the organization must be classified into one of four tiers. The classification dictates how the data can be shared and where it can be stored.
+
+### Tier 1: Public
+* **Definition:** Information intentionally prepared for public distribution. Disclosure poses no risk to the company.
+* **Examples:** Marketing materials, published job descriptions, public press releases.
+* **Storage/Sharing:** Unrestricted. Can be shared externally via any channel.
+
+### Tier 2: Internal Use Only
+* **Definition:** Standard operational data. Disclosure would cause minimal harm but violates company confidentiality.
+* **Examples:** Internal org charts, standard operating procedures, intranet articles, company-wide meeting recordings.
+* **Storage/Sharing:** May be stored on approved cloud drives (Google Workspace/OneDrive). Cannot be shared with external parties without an NDA.
+
+### Tier 3: Confidential
+* **Definition:** Sensitive business data. Unauthorized disclosure would cause significant financial, legal, or reputational damage.
+* **Examples:** Unreleased financial earnings, strategic roadmaps, vendor contracts, source code, employee performance reviews.
+* **Storage/Sharing:** Must be encrypted at rest and in transit. May only be shared internally on a strictly "need-to-know" basis. Emailing this data to personal accounts (e.g., a Gmail address) is strictly prohibited and triggers an automated DLP (Data Loss Prevention) alert.
+
+### Tier 4: Restricted / Highly Sensitive
+* **Definition:** Highly regulated data protected by law (GDPR, CCPA, PCI-DSS). Compromise requires mandatory notification to government regulators.
+* **Examples:** Personally Identifiable Information (PII) of customers, Primary Account Numbers (PAN) or credit card data, employee health records, unencrypted API keys.
+* **Storage/Sharing:** Cannot be stored on local machine hard drives or standard cloud storage. Must be housed in secure, isolated database enclaves (e.g., AWS KMS-encrypted buckets). Transferring Tier 4 data via Slack or standard email is a Level 3 Disciplinary Violation.
+
+## 3. Acceptable Use of Corporate Systems
+Corporate-issued hardware (laptops, phones) and software licenses are provided exclusively for business purposes. 
+* **Incidental Personal Use:** Minimal, incidental personal use (e.g., checking personal bank balances or reading the news during a lunch break) is permitted provided it does not degrade system performance or violate the Code of Conduct.
+* **No Expectation of Privacy:** The organization actively monitors all traffic on the corporate network and corporate VPN. The company reserves the right to inspect local drives on company-issued hardware at any time without prior notice.
+
+## 4. Bring Your Own Device (BYOD) and Mobile Management
+Employees may use personal smartphones to access corporate email and communication tools (Slack/Teams) subject to the BYOD protocol.
+* **MDM Requirement:** To access corporate data on a personal device, the employee must install the approved Mobile Device Management (MDM) software (e.g., Jamf or Microsoft Intune).
+* **Remote Wipe:** By installing the MDM, the employee grants the IT Security team the absolute right to remotely wipe all corporate data from the device if it is lost, stolen, or if employment is terminated. The organization is not liable for the accidental deletion of personal data (photos, contacts) during a remote wipe.
+
+## 5. Password Policies and Authentication
+* **Multi-Factor Authentication (MFA):** MFA is mandatory for all access to corporate systems, without exception. Hardware security keys (YubiKeys) are the preferred method. Authenticator apps (Google Authenticator) are acceptable. SMS-based MFA is prohibited due to SIM-swapping vulnerabilities.
+* **Password Complexity:** Passwords must be at least 14 characters in length and cannot contain the user's name or the company name.
+* **Rotation:** Passwords must be changed every 90 days. The system will prevent the reuse of the last 10 passwords.
+
+## 6. Data Privacy and Handling of PII/Financial Data
+Given the regulatory environment, personnel interacting with customer data must adhere strictly to anonymization protocols.
+* **Production vs. Non-Production:** Live customer data (PII or financial records) must **never** be downloaded to local machines or moved into staging, development, or testing environments. All development and QA testing must utilize synthetic or heavily masked data sets.
+* **Data Subject Access Requests (DSAR):** If an employee receives a request from a customer to delete their data (under GDPR/CCPA), the employee must forward the request to privacy@company.com within 24 hours. Individual employees must never attempt to manually delete records from databases to fulfill a DSAR.
+
+## 7. Incident Response and Breach Reporting SLAs
+Time is the most critical factor in mitigating a cyber incident. Employees must report suspected incidents immediately to the IT Security Operations Center (SOC).
+
+### 7.1 Reporting Service Level Agreements (SLAs)
+* **Lost or Stolen Hardware:** Must be reported within **12 hours** of discovery to initiate remote wipe protocols.
+* **Suspected Phishing Click:** If an employee clicks a suspicious link or enters credentials into a fake portal, they must report it within **1 hour**.
+* **Misdirected Email (Data Breach):** If an employee accidentally sends an email containing Tier 3 or Tier 4 data to an unauthorized external recipient, they must report it within **4 hours**. 
+
+### 7.2 The "Amnesty" Clause
+To encourage rapid reporting, the organization enforces a Security Amnesty Clause. An employee will not face disciplinary action for accidentally clicking a phishing link or making an honest mistake that causes a security incident, **provided** they report the incident immediately in accordance with the SLAs. Attempting to hide a mistake will result in immediate termination.
+
+## 8. Software Procurement and "Shadow IT"
+* **Definition:** "Shadow IT" refers to the use of unauthorized software, cloud services, or AI tools to process company data without IT vetting.
+* **Prohibition:** Employees may not input any Tier 2, Tier 3, or Tier 4 corporate data into public generative AI tools (e.g., public ChatGPT) or unauthorized SaaS platforms. 
+* **Procurement:** All new software, free or paid, must pass a Vendor Security Assessment (VSA) conducted by InfoSec before account creation or integration.
+
+## 9. Offboarding and Access Revocation
+Upon an employee's termination or resignation:
+* **Access Revocation:** All logical access (SSO, VPN, email) will be systematically revoked at 5:00 PM local time on the employee's final day. For involuntary terminations, access is revoked simultaneously with the HR notification.
+* **Hardware Return:** The employee must return all corporate hardware within three (3) business days of their final date. Failure to return hardware will result in the cost of the equipment being deducted from the final paycheck, and the devices will be remotely bricked and reported as stolen to local law enforcement.

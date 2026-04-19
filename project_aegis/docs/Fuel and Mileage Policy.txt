@@ -1,0 +1,145 @@
+# Corporate Travel Policy: Personal Vehicle, Fuel, and Mileage Reimbursement
+**Document ID:** TRV-POL-3012-V2
+**Effective Date:** April 1, 2026
+**Last Revised:** January 20, 2026
+**Policy Owner:** Corporate Fleet Management & Global Finance
+**Applies To:** All employees authorized to operate personal, rental, or company-owned vehicles for official business purposes.
+
+---
+
+## Table of Contents
+1. Purpose and Guiding Principles
+2. Definitions and Scope
+3. Personal Vehicle Usage: Standard Mileage Rate (SMR) Program
+4. Personal Vehicle Usage: Fixed and Variable Rate (FAVR) Allowance
+5. Fuel Reimbursement for Rental and Company-Owned Vehicles
+6. Electric Vehicle (EV) and Hybrid Fleet Guidelines
+7. Chauffeur and Professional Driver Allowances
+8. The "Normal Commute" Deduction Rule
+9. Tolls, Parking, and Ancillary Transit Costs
+10. Documentation, Telematics, and Odometer Verification
+11. Insurance, Liability, and Risk Mitigation
+12. Policy Violations and Audit Triggers
+
+---
+
+## 1. Purpose and Guiding Principles
+The Personal Vehicle, Fuel, and Mileage Reimbursement Policy provides a structured, compliant framework for compensating employees who utilize vehicular transport for corporate business. The organization aims to reimburse employees accurately for the business use of vehicles without creating a taxable fringe benefit under applicable national tax codes (e.g., the IRS accountable plan rules in the US, or equivalent local tax authority guidelines). 
+
+This policy explicitly distinguishes between the reimbursement mechanisms for Personal Vehicles (which operate on a Cents-Per-Mile or FAVR basis) and Corporate/Rental Vehicles (which operate on a direct fuel expense basis). Conflating these two reimbursement types constitutes a severe audit violation.
+
+## 2. Definitions and Scope
+Understanding the categorization of the vehicle is mandatory prior to submitting an expense claim.
+
+* **Internal Combustion Engine (ICE):** Standard vehicles operating on petrol, diesel, or compressed natural gas (CNG).
+* **Electric Vehicle (EV):** Vehicles operating entirely on battery power, requiring charging infrastructure.
+* **Personal Vehicle:** A vehicle owned or personally leased by the employee.
+* **Company-Owned Fleet Vehicle:** A vehicle registered to the organization, permanently assigned to a high-mileage employee (e.g., Regional Sales Directors).
+* **Rental Vehicle:** A vehicle temporarily leased from an approved vendor (e.g., Enterprise) for a specific business trip.
+* **Telematics:** GPS and mileage tracking software utilized to verify driven routes.
+
+## 3. Personal Vehicle Usage: Standard Mileage Rate (SMR) Program
+Employees utilizing their personal vehicles for occasional business travel (defined as driving fewer than 5,000 business miles annually) are governed by the Standard Mileage Rate (SMR) program.
+
+### 3.1 The Mileage Rate
+The organization reimburses personal vehicle usage based on the standardized rates published annually by the national tax authority. 
+* **Current Rate (Effective Jan 1, 2026):** $0.69 USD per business mile.
+* **What the Rate Covers:** The SMR is a comprehensive allowance. It is legally designed to cover the cost of petrol/diesel, routine maintenance, oil changes, tire wear, depreciation, and personal auto insurance. 
+
+### 3.2 Prohibited Dual-Reimbursement
+Because the SMR explicitly includes the cost of fuel, **employees claiming mileage reimbursement are strictly prohibited from expensing direct fuel/petrol receipts.** Submitting a mileage claim alongside a gas station receipt for the same trip is considered financial "double-dipping" and will trigger an immediate fraud audit.
+
+## 4. Personal Vehicle Usage: Fixed and Variable Rate (FAVR) Allowance
+Employees designated as "High-Mileage Drivers" (defined as driving more than 5,000 business miles annually, typically field sales and territory managers) must transition from the SMR program to the FAVR Allowance program.
+
+### 4.1 FAVR Structure
+FAVR separates vehicle costs into two distinct reimbursement streams to ensure geographical equity:
+1.  **Fixed Allowance:** A flat monthly stipend (e.g., $450/month) paid via payroll to cover depreciation, insurance, and registration fees. This rate is adjusted based on the employee's localized zip code.
+2.  **Variable Fuel Rate:** A fluctuating cents-per-mile rate (e.g., $0.18/mile) that adjusts monthly based on the localized average cost of petrol/diesel in the employee’s territory.
+
+### 4.2 Vehicle Compliance for FAVR
+To qualify for the tax-free FAVR program, the employee's personal vehicle must meet strict compliance parameters:
+* The vehicle cannot be older than seven (7) model years.
+* The vehicle's original Manufacturer's Suggested Retail Price (MSRP) must exceed $25,000 but cannot exceed $60,000 (Luxury vehicles exceeding this cap do not receive higher allowances).
+* The employee must maintain comprehensive insurance coverage with limits of at least 100/300/50.
+
+## 5. Fuel Reimbursement for Rental and Company-Owned Vehicles
+Unlike personal vehicles, where fuel is baked into the mileage rate, employees operating rental cars or company-owned fleet vehicles must expense the actual cost of fuel.
+
+### 5.1 Refueling Rental Cars
+Employees must refuel rental vehicles to the required level (usually "Full") prior to returning the vehicle to the rental agency.
+* Employees must use the corporate credit card to purchase petrol/diesel at standard gas stations.
+* **Prepaid Fuel Prohibition:** Purchasing the "Prepaid Fuel Option" from the rental agency desk is strictly prohibited, as it incurs a premium markup.
+* **Refueling Penalties:** If an employee fails to refuel the car and the rental agency applies a refueling penalty rate (often $9.00+ per gallon), the difference between the local market rate and the penalty rate will be deducted from the employee's reimbursement.
+
+### 5.2 Corporate Fleet Fuel Cards (WEX/FleetCor)
+Employees assigned a permanent company-owned vehicle are issued a dedicated Corporate Fuel Card.
+* This card is restricted via Point-of-Sale (POS) to only allow purchases of petrol, diesel, and basic car washes.
+* The card requires the employee to input the vehicle's current odometer reading at the pump before the transaction is authorized.
+* The use of a Corporate Fuel Card for personal vehicles or unauthorized rental cars is considered theft of company property.
+
+## 6. Electric Vehicle (EV) and Hybrid Fleet Guidelines
+The transition to sustainable transit requires specific guidelines for EV charging, which differs significantly from traditional petrol/diesel expensing.
+
+### 6.1 EV Rental Vehicles
+When renting an EV through an approved corporate vendor:
+* **Public Charging Stations:** Employees may expense the cost of utilizing public fast-charging networks (e.g., Tesla Superchargers, Electrify America) using their corporate credit card. 
+* **Return Charge Level:** EVs must be returned to the rental agency with a minimum battery charge of 70% to avoid vendor penalty fees.
+
+### 6.2 Personal EVs (Mileage Program)
+Employees utilizing personal EVs for business travel remain subject to the standard SMR program ($0.69/mile). The government standard rate applies equally to ICE and EV vehicles. Employees cannot expense home-electricity costs or public charging station receipts if they are claiming the standard mileage rate.
+
+## 7. Chauffeur and Professional Driver Allowances
+In specific international regions (e.g., India, Southeast Asia) or for C-Suite executives, the use of a professional driver operating a personal or company vehicle is standard business practice.
+
+### 7.1 Outstation Driver Batta (Allowances)
+If business travel requires an employee’s professional driver to travel outstation (beyond the city limits) and necessitates an overnight stay, the organization will reimburse a "Driver Batta" (daily allowance) to cover the driver's food and basic lodging.
+* **Standard Driver Allowance:** Reimbursable up to $30.00 USD (or local equivalent) per overnight stay. 
+* This allowance must be expensed under the "Ground Transit - Ancillary" code, completely separate from fuel or mileage claims.
+
+## 8. The "Normal Commute" Deduction Rule
+The most frequently violated rule in the travel policy is the failure to deduct normal commuting mileage. National tax laws strictly define commuting between an employee's residence and their primary office as a personal, non-reimbursable expense.
+
+### 8.1 Calculating Deductible Mileage
+When an employee travels directly from their home to a temporary work location (e.g., a client site), they may only expense the mileage that *exceeds* their normal daily commute.
+
+**Formula:** `(Total Miles Driven from Home to Client) - (Normal Commute Miles to Office) = Reimbursable Miles`
+
+* **Example Scenario:** An employee lives 15 miles from the corporate office (30 miles round trip commute). The employee drives directly from home to a client site that is 40 miles away, and then returns home (80 miles total).
+* **Calculation:** 80 total miles driven - 30 normal commute miles = **50 Reimbursable Business Miles.**
+
+### 8.2 Weekend and Non-Working Day Travel
+If an employee is required to drive to a client site or the airport on a weekend, holiday, or standard non-working day, the normal commute deduction does not apply. The entire mileage from the residence is fully reimbursable.
+
+## 9. Tolls, Parking, and Ancillary Transit Costs
+Tolls and parking fees are separate from mileage and fuel policies and are fully reimbursable when incurred during legitimate business travel.
+
+* **Toll Transponders:** The organization will reimburse electronic toll lane charges (e.g., E-ZPass, FasTrak). However, monthly account maintenance fees for personal transponders are non-reimbursable.
+* **Valet Parking:** Valet parking is reimbursable only if self-parking is unavailable, poses a verified safety risk, or if the traveler is transporting heavy, company-owned equipment.
+* **Fines:** Parking tickets, speeding infractions, toll-evasion penalties, and towing fees are categorically non-reimbursable, regardless of the business urgency.
+
+## 10. Documentation, Telematics, and Odometer Verification
+Expense reports lacking robust documentation will be automatically rejected by the automated AP processing system.
+
+### 10.1 Acceptable Mileage Logs
+Employees must submit a detailed mileage log for every trip. The log must include:
+1. Date of travel.
+2. Starting address and Destination address.
+3. Specific business purpose (e.g., "On-site server maintenance at Client X").
+4. Total miles driven (minus commute).
+
+### 10.2 GPS Integration
+To streamline reporting, employees are strongly encouraged to use the GPS-integration feature within the corporate expense app (e.g., Workday Mileage Tracker or Concur Drive). These applications use the mobile device's location services to automatically plot the route, calculate exact mileage, and automatically deduct the pre-programmed home-to-office commute distance. Manual odometer readings are subject to higher audit scrutiny.
+
+## 11. Insurance, Liability, and Risk Mitigation
+When an employee operates a personal vehicle for business purposes, the employee's personal auto insurance policy serves as the **primary** coverage in the event of an accident.
+
+* The organization maintains a Non-Owned Auto Liability policy, but this serves only as **secondary** coverage. It protects the company from third-party lawsuits; it does not cover physical damage to the employee's personal vehicle.
+* Employees are explicitly barred from utilizing motorcycles, mopeds, or recreational vehicles (RVs) for corporate business travel.
+
+## 12. Policy Violations and Audit Triggers
+The Finance auditing software monitors for specific patterns indicative of expense fraud. Reports will trigger an immediate manual audit if they contain:
+* Round-number mileage claims (e.g., exactly 100 miles claimed on three consecutive trips).
+* Fuel receipts submitted concurrently with SMR mileage claims.
+* Consistent failure to deduct commute mileage.
+* Fuel claims for rental cars where the gallons purchased vastly exceed the fuel tank capacity of the rented vehicle class.

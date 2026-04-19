@@ -1,0 +1,119 @@
+# Human Resources Policy: Performance Management, Compensation, and Career Advancement
+**Document ID:** HR-POL-6002-V5
+**Effective Date:** April 1, 2026
+**Last Revised:** February 28, 2026
+**Policy Owner:** Global Total Rewards & Talent Management
+**Applies To:** All full-time and regular part-time employees. Temporary contractors, interns, and external consultants are explicitly excluded from the annual compensation review cycle and equity programs.
+
+---
+
+## Table of Contents
+1. Performance Management Philosophy
+2. The Annual Performance Cycle (H1 and H2)
+3. Performance Rating Scale and Calibration
+4. Base Salary and Geographic Compensation Bands
+5. Variable Compensation: The Annual Bonus Program
+6. Equity and Long-Term Incentives (RSUs)
+7. Promotion Criteria and Eligibility
+8. Off-Cycle Compensation Adjustments
+9. Impact of Disciplinary Action (PIPs)
+10. Separation and Compensation Forfeiture
+
+---
+
+## 1. Performance Management Philosophy
+The organization utilizes a continuous feedback model culminating in bi-annual formal reviews. Compensation and career advancement are strictly merit-based, aligning individual achievement with broader corporate objectives. Tenure alone is never a justification for a promotion or a base salary increase.
+
+## 2. The Annual Performance Cycle (H1 and H2)
+The organization operates on a dual-cycle performance year aligned with the fiscal calendar (January 1 - December 31).
+
+### 2.1 Mid-Year Check-In (H1)
+* **Timeline:** June 1st to July 15th.
+* **Purpose:** A lightweight, developmental review focused on trajectory, goal alignment, and course correction. 
+* **Outcomes:** No formal ratings are recorded in the HRIS system during H1, and no compensation adjustments or promotions are granted during this cycle.
+
+### 2.2 Year-End Annual Review (H2)
+* **Timeline:** November 15th to January 31st.
+* **Purpose:** The comprehensive evaluation of the employee's impact over the preceding 12 months.
+* **Outcomes:** Formal performance ratings are assigned, and decisions regarding annual merit increases, bonuses, and promotions are finalized.
+* **Eligibility Cutoff:** To receive a formal Year-End rating and be eligible for the subsequent merit cycle, an employee must have been hired on or before September 30th of the review year. Employees hired on or after October 1st will receive a "Too New to Evaluate" (TN) status.
+
+## 3. Performance Rating Scale and Calibration
+The organization utilizes a 5-point rating scale. Managers submit initial ratings, which are then subject to a mandatory departmental calibration session to ensure standard distribution and eliminate rater bias.
+
+* **Rating 5 (Exceptional):** Consistently and significantly exceeds all expectations. Sets a new standard for the role. (Target Distribution: Top 10%).
+* **Rating 4 (Exceeds Expectations):** Frequently exceeds goals and demonstrates high impact beyond core responsibilities. (Target Distribution: 25%).
+* **Rating 3 (Successfully Meets Expectations):** Consistently delivers on all core goals and role requirements. This is the baseline of strong performance. (Target Distribution: 50%).
+* **Rating 2 (Inconsistent):** Meets some goals but falls short on others. Requires targeted development. (Target Distribution: 10%).
+* **Rating 1 (Unsatisfactory):** Fails to meet core role requirements. (Target Distribution: 5%).
+
+## 4. Base Salary and Geographic Compensation Bands
+The organization targets the 75th percentile of market rates for base compensation, determined by annual third-party benchmarking (e.g., Radford Data).
+
+### 4.1 Geographic Tiering
+Salaries are adjusted based on the cost of labor in the employee's primary working location.
+* **Tier A (Premium Markets):** San Francisco, New York, London, Zurich. (100% of base band).
+* **Tier B (Major Hubs):** Chicago, Austin, Toronto, Sydney. (85% of Tier A band).
+* **Tier C (Standard Markets):** All other locations and fully remote roles located outside Tier A or Tier B radii. (75% of Tier A band).
+* *Note on Relocation:* If an employee voluntarily relocates from a Tier A to a Tier C market, their base salary will be adjusted downward to align with the new geographic band within 60 days of relocation.
+
+### 4.2 The Annual Merit Matrix
+Base salary increases are dictated by the "Merit Matrix," which combines the employee's Year-End Performance Rating with their current Position in Range (PIR) within their salary band.
+* An employee with a Rating 4 who is in the *lower* third of their salary band will receive a higher percentage increase (e.g., 6%) than an employee with a Rating 4 who is in the *upper* third of their band (e.g., 3%).
+
+## 5. Variable Compensation: The Annual Bonus Program
+The Annual Bonus Program is designed to reward collective corporate success and individual impact.
+
+### 5.1 Bonus Calculation Formula
+Actual Bonus Payout = `(Base Salary) * (Target Bonus Percentage) * (Company Multiplier) * (Individual Multiplier)`
+
+### 5.2 Formula Variables
+1. **Target Bonus Percentage:** Dictated by job level (e.g., Individual Contributors: 10%, Managers: 15%, Directors: 25%, VPs: 40%).
+2. **Company Multiplier:** Set by the Board of Directors based on the achievement of corporate EBITDA targets. Can range from 0.0 (missed targets) to 1.5 (maximum overachievement).
+3. **Individual Multiplier:** Strictly tied to the Year-End Performance Rating:
+   * Rating 5 = 1.3x multiplier
+   * Rating 4 = 1.1x multiplier
+   * Rating 3 = 1.0x multiplier
+   * Rating 2 = 0.5x multiplier
+   * Rating 1 = 0.0x multiplier (Ineligible for bonus)
+
+### 5.3 Proration
+If an eligible employee was hired between January 1st and September 30th of the performance year, their bonus payout will be prorated based on the exact number of days employed during that calendar year. 
+
+## 6. Equity and Long-Term Incentives (RSUs)
+Restricted Stock Units (RSUs) are granted to align employee interests with long-term shareholder value.
+
+### 6.1 Standard Vesting Schedule
+Initial new-hire RSU grants follow a standard four-year vesting schedule with a one-year "cliff."
+* **The Cliff:** 25% of the total granted shares vest exactly one year from the employee's start date.
+* **Subsequent Vesting:** The remaining 75% vests in equal quarterly installments (1/16th of the total grant) over the next 36 months.
+* *Exception:* Executive Leadership (C-Suite) grants are subject to a three-year vesting schedule with performance-based (PSU) vesting milestones rather than strict time-based vesting.
+
+### 6.2 Annual Refreshers
+Employees who achieve a Rating 3, 4, or 5 in the Year-End review are eligible for an annual equity "refresher" grant. Refresher grants do not have a one-year cliff; they vest quarterly over four years beginning on the date of the grant.
+
+## 7. Promotion Criteria and Eligibility
+A promotion is defined as a transition to a higher job grade, reflecting a significant increase in scope, complexity, and responsibility.
+
+### 7.1 Minimum Tenure Guidelines
+To be eligible for a promotion, an employee must have served in their current role for a minimum of eighteen (18) continuous months. 
+* *Departmental Exception:* Due to rapid scaling, employees within the Engineering and Product Development departments are eligible for promotion review after twelve (12) continuous months in role.
+
+### 7.2 The "Operating at Level" Requirement
+Promotions are not granted based on potential. An employee must demonstrably perform the duties of the higher-level role for at least three (3) months prior to the formal promotion request being submitted.
+
+### 7.3 Compensation upon Promotion
+Promoted employees will receive an immediate base salary increase to bring them, at minimum, to the 25th percentile of the new role's salary band. If their current salary already exceeds the 25th percentile of the new band, they will receive a standard 8% promotional increase.
+
+## 8. Off-Cycle Compensation Adjustments
+Compensation adjustments outside the formal Year-End cycle are heavily restricted and require VP and HR Business Partner approval.
+* **Market Adjustments:** May be requested if HR data indicates a specific role's compensation has fallen significantly below the 50th percentile of the external market.
+* **Counter-Offers:** The organization has a strict "No Counter-Offer" policy. Managers are prohibited from requesting off-cycle salary increases to retain an employee who has accepted an offer from a competitor.
+
+## 9. Impact of Disciplinary Action (PIPs)
+Performance and compensation are directly linked to the Global Code of Conduct (cross-reference HR-POL-5050-V4).
+* Any employee actively on a Performance Improvement Plan (PIP) or under a Final Written Warning as of November 15th is automatically ineligible for a Year-End merit increase, an annual bonus payout, or a promotion, regardless of their financial or operational metrics.
+
+## 10. Separation and Compensation Forfeiture
+* **Bonuses:** To receive the Annual Bonus payout (typically distributed in March), the employee must be actively employed and in good standing on the date of payout. If an employee resigns on February 28th, they forfeit their entire bonus for the previous performance year.
+* **Equity:** Unvested RSUs are immediately canceled and returned to the corporate equity pool at 5:00 PM local time on the employee's final date of employment.

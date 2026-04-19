@@ -1,0 +1,135 @@
+# Human Resources Policy: Global Leave, Paid Time Off, and Absences
+**Document ID:** HR-POL-4001-V6
+**Effective Date:** January 1, 2026
+**Last Revised:** November 30, 2025
+**Policy Owner:** Global Human Resources & Employee Success
+**Applies To:** All regular full-time and part-time employees globally. Temporary employees and independent contractors are explicitly excluded from this policy unless mandated by local statutory law.
+
+---
+
+## Table of Contents
+1. Purpose and Philosophy
+2. Paid Time Off (PTO) Accrual and Tiers
+3. PTO Carryover, Rollover, and Maximum Caps
+4. Global Holiday Schedule and Floating Holidays
+5. Sick and Safe Leave (Company and Statutory)
+6. Comprehensive Parental and Family Leave
+7. Bereavement Leave Restrictions
+8. Sabbatical Program
+9. Civic Duty: Jury Duty and Voting Leave
+10. Unpaid Leave of Absence (ULOA)
+11. Termination and Payout of Accrued Leave
+12. Request and Approval Workflows
+
+---
+
+## 1. Purpose and Philosophy
+The organization believes that employees do their best work when they have ample time to rest, recharge, and attend to personal, medical, and family matters. This comprehensive Leave and Absence Policy establishes the rules and administrative procedures governing paid and unpaid time away from work. 
+
+While this document serves as the global standard, the organization complies with all national, state, and local laws. Where local law provides a more generous benefit than this company policy, the local law shall strictly supersede (refer to Section 11 regarding state-specific payouts).
+
+## 2. Paid Time Off (PTO) Accrual and Tiers
+The organization utilizes a tenure-based accrual system for Paid Time Off (PTO). PTO is used for vacations, personal errands, and general time away from work that does not fall under Sick Leave or Parental Leave.
+
+### 2.1 Accrual Rates for Full-Time Employees
+PTO accrues per pay period (bi-weekly, 26 pay periods per calendar year). The accrual rate increases on the first day of the month following the employee's designated work anniversary.
+
+| Years of Continuous Service | Annual PTO Granted | Bi-Weekly Accrual Rate | Maximum Accrual Cap |
+| :--- | :--- | :--- | :--- |
+| Tier 1: 0 to 2 Years | 15 Days (120 Hours) | 4.61 Hours | 180 Hours |
+| Tier 2: 3 to 5 Years | 20 Days (160 Hours) | 6.15 Hours | 240 Hours |
+| Tier 3: 6 to 9 Years | 25 Days (200 Hours) | 7.69 Hours | 300 Hours |
+| Tier 4: 10+ Years | 30 Days (240 Hours) | 9.23 Hours | 360 Hours |
+
+### 2.2 Part-Time Employees
+Regular part-time employees (defined as working between 20 and 29 hours per week) accrue PTO on a strict pro-rata basis based on their standard scheduled hours. Employees working fewer than 20 hours per week do not accrue PTO.
+
+## 3. PTO Carryover, Rollover, and Maximum Caps
+To encourage employees to take their vacation time, the organization enforces maximum accrual caps and carryover limits.
+
+### 3.1 The "Use It or Lose It" Standard Policy
+At the end of the calendar year (December 31st), employees may carry over a maximum of forty (40) hours (5 days) of unused PTO into the following calendar year. Any accrued PTO exceeding the 40-hour rollover limit on December 31st will be immediately forfeited and removed from the employee's balance without financial compensation.
+
+### 3.2 Statutory Exceptions (California, Colorado, Montana, Nebraska)
+The "Use It or Lose It" policy described in Section 3.1 is strictly prohibited in certain US jurisdictions. For employees legally residing in California, Colorado, Montana, and Nebraska, PTO does not expire at the end of the calendar year. Instead, these employees are subject to the "Maximum Accrual Cap" listed in the table in Section 2.1.
+* *Example:* A Tier 1 employee in California can accrue up to 180 hours. Once their balance reaches 180 hours, they stop accruing PTO until they take time off to reduce their balance below the cap.
+
+## 4. Global Holiday Schedule and Floating Holidays
+The organization observes standard public holidays based on the employee's primary country of employment. 
+
+### 4.1 Designated Holidays
+For US-based employees, the organization observes ten (10) paid holidays: New Year's Day, Martin Luther King Jr. Day, Presidents' Day, Memorial Day, Juneteenth, Independence Day, Labor Day, Thanksgiving Day, Day after Thanksgiving, and Christmas Day. If a holiday falls on a Saturday, it is observed on the preceding Friday. If it falls on a Sunday, it is observed on the following Monday.
+
+### 4.2 Floating Holidays
+In addition to designated holidays, all full-time employees receive two (2) Paid Floating Holidays (16 hours) on January 1st of each year. 
+* Floating holidays do not accrue; they are granted as a lump sum.
+* New hires starting after July 1st receive only one (1) Floating Holiday for that calendar year.
+* Floating holidays absolutely cannot be carried over into the next year and are never paid out upon termination, regardless of jurisdiction.
+
+## 5. Sick and Safe Leave (Company and Statutory)
+Sick leave is explicitly segregated from PTO. It is to be used for the diagnosis, care, or treatment of an existing health condition, or preventive care for the employee or their immediate family member. It also covers "Safe Leave" for employees seeking assistance related to domestic violence, sexual assault, or stalking.
+
+### 5.1 Sick Leave Allotment
+The organization operates on a front-loaded sick leave model. All full-time employees are granted eighty (80) hours (10 days) of Paid Sick Leave on January 1st. 
+* Unused sick leave does not roll over to the following year.
+* A doctor's note or medical certification is only required if the employee utilizes more than three (3) consecutive days of sick leave. Failure to provide a requested medical certificate within 5 business days of returning to work will result in the absence being coded as Unpaid Leave.
+
+## 6. Comprehensive Parental and Family Leave
+The organization provides paid time off to support employees welcoming a new child via birth, adoption, or foster placement. Eligibility requires the employee to have completed at least six (6) continuous months of employment prior to the qualifying event.
+
+### 6.1 Primary Caregiver Leave
+The designated Primary Caregiver (the parent taking primary responsibility for the child's care during standard business hours) is eligible for up to sixteen (16) weeks of 100% paid leave.
+
+### 6.2 Secondary Caregiver Leave
+The designated Secondary Caregiver is eligible for up to six (6) weeks of 100% paid leave.
+
+### 6.3 Intermittent Leave Rules
+Parental leave does not need to be taken continuously. It may be taken intermittently in blocks of no less than one (1) week at a time. However, all approved parental leave must be exhausted within twelve (12) months of the child's birth or placement.
+
+## 7. Bereavement Leave Restrictions
+In the event of a death, employees are granted paid time away to grieve and attend to funeral arrangements. Bereavement leave is categorized by the employee's relationship to the deceased.
+
+* **Tier 1 (Immediate Family):** Up to five (5) paid days off. Immediate family includes a spouse, domestic partner, child, stepchild, parent, stepparent, or sibling.
+* **Tier 2 (Extended Family):** Up to three (3) paid days off. Extended family includes grandparents, grandchildren, aunts, uncles, nieces, nephews, and in-laws (mother/father-in-law, brother/sister-in-law).
+* **Tier 3 (Miscarriage/Pregnancy Loss):** Employees who experience a miscarriage or stillbirth, or whose spouse/partner experiences one, are entitled to up to five (5) paid days off.
+
+## 8. Sabbatical Program
+The organization rewards long-term loyalty with an extended paid sabbatical program designed to foster personal growth, travel, and deep rest.
+
+### 8.1 Eligibility and Duration
+Upon completing seven (7) years of continuous, full-time service, employees are eligible for a fully paid four-week (20 business days) Sabbatical.
+* The Sabbatical must be taken consecutively; it cannot be split into smaller increments.
+* The Sabbatical must be used within 24 months of the employee reaching their 7-year anniversary, or the benefit is permanently forfeited.
+
+### 8.2 Benefit Continuation
+During the Sabbatical, employees continue to receive their standard base salary, and all health, dental, and retirement benefits remain active. However, employees **do not** accrue standard PTO during the four-week sabbatical period. Equipment stipends (refer to Remote Work Policy) are also suspended during this period.
+
+## 9. Civic Duty: Jury Duty and Voting Leave
+The organization supports employees fulfilling their civic obligations.
+
+### 9.1 Jury Duty
+Employees summoned for mandatory jury duty will receive their standard base salary for up to ten (10) business days. To receive pay, the employee must submit a copy of the official jury summons to HR within 48 hours of receipt, and provide a stamped proof-of-service document from the court upon return. Any stipends paid by the court to the employee (excluding travel/parking reimbursements) must be remitted to the company if the employee is receiving their full salary.
+
+### 9.2 Voting Leave
+If an employee's work schedule does not provide sufficient time to vote outside of working hours (defined as two consecutive hours either between the opening of the polls and the start of the shift, or the end of the shift and the closing of the polls), the organization will provide up to two (2) hours of paid time off to vote.
+
+## 10. Unpaid Leave of Absence (ULOA)
+In circumstances where an employee has exhausted all applicable PTO, Sick Leave, and Statutory Leave (such as FMLA), they may request an Unpaid Leave of Absence (ULOA) for severe personal or medical reasons.
+* ULOA requests must be submitted in writing and require approval from the Department VP and the Chief HR Officer.
+* ULOA cannot exceed 90 cumulative days in a rolling 12-month period.
+* During an approved ULOA, the employee is responsible for paying 100% of their healthcare premiums (both the employee and employer portions) to maintain active coverage.
+
+## 11. Termination and Payout of Accrued Leave
+The financial reconciliation of leave balances upon an employee's departure (whether voluntary resignation or involuntary termination) is strictly governed by state law.
+
+### 11.1 PTO Payout
+* **Standard Policy:** Accrued, unused PTO is paid out to the employee in their final paycheck at their standard hourly rate. 
+* **Negative Balances:** If an employee terminates employment with a negative PTO balance (having borrowed against future accruals), the monetary equivalent of the negative balance will be deducted from their final paycheck, where legally permissible.
+
+### 11.2 Non-Payable Leave
+Under no circumstances, regardless of jurisdiction, will the organization pay out unused Sick Leave, Floating Holidays, Sabbatical time, or Bereavement Leave upon termination. 
+
+## 12. Request and Approval Workflows
+* **Standard PTO:** Requests for 1 to 4 days of PTO require minimum 7 days' advance notice via the Workday HRIS system.
+* **Extended PTO:** Requests for 5 or more consecutive days of PTO require minimum 21 days' advance notice and documented approval from the direct manager.
+* **Sick Leave Notification:** Unplanned sick leave must be communicated to the direct manager via phone or Slack at least one (1) hour prior to the start of the employee's scheduled shift.

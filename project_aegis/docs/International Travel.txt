@@ -1,0 +1,151 @@
+# Corporate Travel Policy: International Operations and Global Mobility
+**Document ID:** TRV-POL-2005-V3
+**Effective Date:** February 1, 2026
+**Last Revised:** December 10, 2025
+**Policy Owner:** Global Corporate Travel, Risk Management, and Global Mobility (GCT-RM)
+**Applies To:** All employees, executives, and authorized contractors undertaking cross-border travel for company business.
+
+---
+
+## Table of Contents
+1. Introduction, Scope, and Global Duty of Care
+2. Passports, Visas, and Immigration Compliance
+3. International Pre-Travel Authorization and Risk Assessment
+4. International Air Travel and Class of Service
+5. Global Ground Transportation
+6. International Lodging and Security Standards
+7. Currency Conversion, Foreign Transaction Fees, and Per Diems
+8. Health, Vaccinations, and Medical Evacuation
+9. Data Security and Cross-Border Technology Protocols
+10. Corporate Tax, Legal Risk, and "Permanent Establishment"
+11. Repatriation and Emergency Extraction
+12. Exceptions and Executive Waivers
+
+---
+
+## 1. Introduction, Scope, and Global Duty of Care
+The International Operations and Global Mobility Travel Policy outlines the regulations, safety protocols, and financial guidelines for personnel traveling outside their designated home country for business purposes. International travel introduces complex variables, including geopolitical instability, fluctuating currency exchange rates, immigration laws, and severe data security risks.
+
+This document serves as a mandatory addendum to the *Standard and Client-Facing Operations Travel Policy (TRV-POL-1001-V4)*. Where guidelines in this document conflict with the standard policy, the guidelines within this international policy shall strictly supersede. The organization maintains a comprehensive Global Duty of Care program to ensure the physical safety, legal compliance, and medical security of our international workforce.
+
+## 2. Passports, Visas, and Immigration Compliance
+Employees must possess legally valid travel documents to enter foreign jurisdictions. Strict adherence to international immigration law is non-negotiable.
+
+### 2.1 Passports
+Employees must hold a passport valid for at least six (6) months beyond the intended date of return to their home country. 
+* **Reimbursement:** The organization will reimburse the cost of passport renewals (including expedited processing fees) only if the employee is required to travel internationally within 30 days and their current passport is expired or lacks sufficient blank pages. Initial passport procurement for new hires is considered a personal expense and is non-reimbursable.
+
+### 2.2 Visas and Work Authorizations
+Employees are strictly prohibited from conducting official company business on a "Tourist Visa" unless explicitly cleared by the Global Mobility Legal Team. Traveling under false pretenses constitutes a Level 1 Policy Violation and grounds for immediate termination.
+* **Procurement:** All business visas, work permits, and invitation letters must be processed through the organization’s designated immigration vendor (Fragomen or equivalent).
+* **Reimbursement:** All costs associated with acquiring business visas (including consular fees, vendor processing fees, and mandatory passport photos) are 100% reimbursable. 
+
+## 3. International Pre-Travel Authorization and Risk Assessment
+International travel requires a more stringent approval hierarchy due to increased financial costs and geopolitical risks.
+
+### 3.1 International Approval Matrix
+All international travel, regardless of the estimated cost, requires dual-level approval.
+| Travel Category | Destination Risk Level | Primary Approval | Secondary Approval | Minimum Lead Time |
+| :--- | :--- | :--- | :--- | :--- |
+| Standard International | Low to Moderate | Department Director | VP of Department | 30 Days |
+| High-Risk Destination | High (Level 3/4) | VP of Department | Chief Risk Officer (CRO) | 45 Days |
+| Executive Travel | Any | C-Suite Sponsor | General Counsel | 21 Days |
+
+### 3.2 High-Risk Destinations
+The organization utilizes the risk tiering system provided by International SOS (ISOS) and the respective government state departments. Travel to regions designated as "High Risk" or "Do Not Travel" requires a mandatory risk briefing with the Global Security Team prior to ticket issuance.
+
+## 4. International Air Travel and Class of Service
+The organization recognizes the physical toll of long-haul international flights and adjusts class-of-service guidelines accordingly to ensure traveler productivity upon arrival.
+
+### 4.1 Flight Duration Thresholds
+Class of service is dictated by the continuous, scheduled flight time of a single leg, not the cumulative duration of the entire journey.
+* **Under 8 Hours:** Standard Economy Class.
+* **8 to 12 Hours:** Premium Economy is approved. If Premium Economy is unavailable on the designated route, standard Economy must be booked.
+* **Over 12 Hours:** Business Class is approved. 
+
+### 4.2 Layovers and Stopovers
+If an employee is mandated to fly Economy on an international itinerary where the total transit time (including layovers) exceeds 14 hours, the organization will reimburse the cost of a single-use Airport Lounge Pass (up to $75 USD) during the layover. Paid stopovers (intentionally delaying a connecting flight for personal leisure) are prohibited unless the airfare is proven to be cheaper than a direct connection.
+
+## 5. Global Ground Transportation
+Transportation safety varies drastically by region. Employees must prioritize secure, vetted transit options over public transit in unfamiliar or high-risk territories.
+
+### 5.1 Rail Travel
+In regions with highly developed rail infrastructure (e.g., Western Europe, Japan), high-speed rail (e.g., Eurostar, TGV, Shinkansen) is the preferred method of intercity travel. Employees may book First Class rail tickets if the journey exceeds three (3) hours or if it facilitates productive working conditions.
+
+### 5.2 Rental Vehicles Internationally
+Renting vehicles internationally is highly discouraged due to differing traffic laws, liability complexities, and licensing requirements. 
+* **Prohibited Regions:** Employees are strictly prohibited from renting or driving vehicles in countries with a "High" or "Extreme" road safety risk index (e.g., India, Brazil, parts of Sub-Saharan Africa).
+* **Approved Regions:** Car rentals are permitted in Canada, the UK, the EU, and Australia, provided the employee obtains an International Driving Permit (IDP) prior to departure.
+
+### 5.3 Black Car and Chauffeur Services
+In high-risk destinations, the use of pre-vetted, secure chauffeur services is mandatory for all airport transfers and inter-office commuting. These must be booked exclusively through the Global Security Dashboard.
+
+## 6. International Lodging and Security Standards
+International lodging rates fluctuate significantly. The organization abandons the static numeric tiers used domestically in favor of a dynamic index.
+
+### 6.1 US State Department Lodging Index
+International hotel maximums are benchmarked against the US State Department’s Foreign Per Diem Rates for lodging. Employees may book accommodations up to 120% of the published State Department rate for their specific international city.
+
+### 6.2 Security Requirements for Lodging
+When booking hotels internationally, travelers must ensure the property meets the following minimum security criteria:
+* The hotel must have 24/7 front desk staffing and security personnel.
+* Guest room doors must have internal deadbolts and peepholes.
+* Ground-level rooms are prohibited in moderate-to-high risk destinations.
+* Alternative accommodations (Airbnb, Vrbo) are strictly prohibited for international travel due to the inability to verify local security standards and fire safety compliance.
+
+## 7. Currency Conversion, Foreign Transaction Fees, and Per Diems
+Reconciling international expenses requires careful documentation of currency fluctuations.
+
+### 7.1 Foreign Currency Conversion
+All expenses must be submitted in the employee’s home currency. 
+* If a corporate credit card is used, the expense system will automatically import the converted amount.
+* If personal funds are used (cash or personal card), the employee must convert the local currency to their home currency using the exact exchange rate on the date of the transaction. The organization mandates the use of the historical rates published on OANDA.com for audit verification.
+
+### 7.2 Foreign Transaction Fees
+The organization’s corporate credit card program waives foreign transaction fees. If an employee must use a personal credit card due to an emergency, the organization will reimburse up to 3% in foreign transaction fees, provided the fees are itemized on the bank statement.
+
+### 7.3 International Per Diems (M&IE)
+International Meals and Incidental Expenses (M&IE) per diems are not flat rates. They are dynamically assigned based on the destination city, utilizing the World Health Organization (WHO) or US State Department international per diem tables. 
+* Receipts are not required for meals purchased under the international per diem threshold.
+* The per diem covers all gratuities, currency exchange fees, and minor local transit (e.g., a short bus ride).
+
+## 8. Health, Vaccinations, and Medical Evacuation
+Crossing international borders introduces biological and epidemiological risks.
+
+### 8.1 Travel Clinics and Vaccinations
+The organization will reimburse 100% of out-of-pocket costs for required and recommended immunizations (e.g., Yellow Fever, Typhoid, Malaria prophylaxis) mandated by the destination country or recommended by the CDC/WHO. Employees must visit a certified travel clinic at least 4 weeks prior to departure.
+
+### 8.2 Medical Evacuation
+The organization retains a global contract with International SOS (ISOS). In the event of a severe medical emergency where adequate local care is unavailable, ISOS will arrange and the company will fully fund a medical evacuation (medevac) to the nearest center of medical excellence or the employee's home country.
+
+## 9. Data Security and Cross-Border Technology Protocols
+International travel exposes the organization to severe cyber espionage, device theft, and IP compromise. These protocols are enforced in conjunction with the *Global IT Security Policy (IT-SEC-400)*.
+
+### 9.1 Clean Device Program (High-Risk Destinations)
+Employees traveling to countries categorized as High Cyber-Risk (e.g., China, Russia, Iran) are strictly prohibited from bringing their standard-issue corporate laptops or personal mobile phones. 
+* Employees must request "Burner" or "Clean" devices from IT Procurement 14 days prior to travel.
+* These devices contain only essential software and data necessary for the trip. 
+* Upon return, clean devices must be surrendered immediately to IT for complete forensic wiping and destruction.
+
+### 9.2 VPN and Network Security
+Connecting to public Wi-Fi networks (airports, cafes, international hotels) without engaging the corporate Virtual Private Network (VPN) is a critical security violation. If the corporate VPN is blocked by a foreign government firewall, the employee must cease all work and contact the IT Security Desk via landline.
+
+### 9.3 Customs and Device Searches
+If a border agent or customs official demands access to a company-owned device, employees should politely state that the device belongs to their employer and contains confidential corporate data. However, employees must ultimately comply with lawful orders from border officials to avoid detention. If a device is searched or confiscated, the employee must report the incident to the Chief Information Security Officer (CISO) immediately upon reaching a secure location.
+
+## 10. Corporate Tax, Legal Risk, and "Permanent Establishment"
+Extended international business travel can trigger severe tax liabilities for both the employee and the organization.
+
+### 10.1 The 90-Day Rule
+Employees may not spend more than ninety (90) cumulative days in a single foreign jurisdiction within a rolling 12-month period without prior authorization from the Global Corporate Tax Department. 
+
+### 10.2 Permanent Establishment (PE) Risk
+Conducting sales, signing contracts, or generating direct revenue while in a foreign country can create a "Permanent Establishment," subjecting the organization to foreign corporate taxes. Personnel traveling to close deals must have contract signing authority expressly limited to their home country unless structured specifically by the legal team.
+
+## 11. Repatriation and Emergency Extraction
+In the event of a sudden geopolitical crisis (e.g., a coup d'état), natural disaster, or global pandemic, the organization will trigger its Emergency Extraction Protocol.
+* Employees must follow all directives issued via the ISOS emergency mass-notification system.
+* The company holds specialized Kidnap and Ransom (K&R) insurance for personnel operating in extreme-risk environments. Under no circumstances should an employee or their family attempt to negotiate directly with hostiles.
+
+## 12. Exceptions and Executive Waivers
+Due to the legal and physical risks associated with international travel, exceptions to this policy are exceptionally rare. Any deviation from the defined protocols—particularly regarding immigration compliance, data security, or high-risk destination travel—must be reviewed by a committee comprising the CFO, General Counsel, and Chief Risk Officer.

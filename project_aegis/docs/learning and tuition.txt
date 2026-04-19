@@ -1,0 +1,114 @@
+# Corporate Policy: Global Learning, Development, and Tuition Assistance
+**Document ID:** LND-POL-7010-V3
+**Effective Date:** May 1, 2026
+**Last Revised:** March 10, 2026
+**Policy Owner:** Chief Learning Officer (CLO) & Global HR
+**Applies To:** All full-time employees. Part-time employees and contractors are subject only to Section 2 (Mandatory Compliance).
+
+---
+
+## Table of Contents
+1. Learning Philosophy and Scope
+2. Mandatory Compliance and Onboarding Training
+3. The Professional Development Stipend (Certifications & Conferences)
+4. Advanced Technology & AI Fluency Initiative
+5. Formal Tuition Assistance Program (Degree Programs)
+6. Academic Performance Requirements
+7. Reimbursement Workflows
+8. Repayment and Retention (The "Clawback" Clause)
+9. Cross-References and Taxation
+
+---
+
+## 1. Learning Philosophy and Scope
+The organization is committed to fostering a culture of continuous learning. The Global Learning and Development (L&D) policy is designed to support employees in acquiring new skills, maintaining professional certifications, and pursuing higher education that directly aligns with the organization’s strategic objectives. 
+
+All financial assistance provided under this policy is subject to annual budget approvals and is not a guaranteed contractual benefit.
+
+## 2. Mandatory Compliance and Onboarding Training
+To maintain legal compliance and secure corporate infrastructure, all personnel (including temporary contractors) must complete mandatory training modules via the internal Learning Management System (LMS), "LearnHub."
+
+### 2.1 Onboarding Timelines
+New hires must complete the following modules within their first thirty (30) calendar days of employment:
+* **HR-101:** Global Code of Conduct and Anti-Harassment (2 hours).
+* **SEC-100:** Phishing, Social Engineering, and Data Privacy (1.5 hours).
+* **FIN-201:** Insider Trading and Financial Disclosures (1 hour).
+
+### 2.2 Annual Refreshers
+All employees must complete a 60-minute "Security and Compliance Refresher" annually by October 31st. 
+* **Penalty for Non-Compliance:** Failure to complete mandatory training by the deadline will result in immediate suspension of corporate network access and formal disciplinary action (refer to *HR-POL-5050-V4: Code of Conduct*).
+
+## 3. The Professional Development Stipend (Certifications & Conferences)
+The organization provides an annual discretionary stipend for employees to attend industry conferences, seminars, and obtain professional certifications (e.g., PMP, AWS Certified Solutions Architect, CFA).
+
+### 3.1 Annual Stipend Tiers
+Stipend amounts are refreshed on January 1st and do not roll over into the following calendar year. The limits are determined by job level:
+
+| Job Level | Annual L&D Stipend Limit (USD) | Approval Required |
+| :--- | :--- | :--- |
+| Individual Contributors (L1 - L4) | $1,500 | Direct Manager |
+| Management (M1 - M2) | $3,000 | Department Director |
+| Directors and Above (D1+) | $5,000 | Department VP |
+
+### 3.2 Conference Travel Allowances
+If an employee utilizes their L&D stipend to purchase a ticket to an industry conference, the associated travel costs (flights, hotel, per diems) are **not** deducted from the L&D stipend. However, all conference travel must strictly adhere to the booking protocols and budgetary limits outlined in the *Corporate Travel Policy (TRV-POL-1001-V4)*.
+
+## 4. Advanced Technology & AI Fluency Initiative
+Given the rapid evolution of our technological infrastructure, the organization has carved out a specialized, fast-tracked budget for data science, machine learning, and generative AI upskilling.
+
+### 4.1 The Tech-Stack Exemption
+Employees actively working in Engineering, Data Science, or Product roles may request an additional $2,000 USD supplemental budget (bypassing the limits in Section 3.1) specifically for approved advanced technical coursework. 
+* **Approved Topics:** Large Language Model (LLM) fine-tuning, advanced data architecture, MLOps, and prompt engineering frameworks.
+* **Workflow:** Requests for the Tech-Stack Exemption must be vetted by the Chief Technology Officer (CTO) prior to enrollment.
+
+## 5. Formal Tuition Assistance Program (Degree Programs)
+The Tuition Assistance Program (TAP) is designed for full-time employees pursuing formal undergraduate or graduate degrees (B.A., B.S., M.S., MBA) at accredited universities. 
+
+### 5.1 Eligibility
+* The employee must have completed a minimum of twelve (12) months of continuous, full-time service prior to the start date of the first academic term.
+* The employee must be in "Good Standing" (not on a Performance Improvement Plan or under disciplinary review).
+* The degree program must be broadly related to the employee's current role or a probable future role within the organization.
+
+### 5.2 Financial Limits
+The organization will reimburse up to a maximum of **$5,250 USD per calendar year** for approved tuition, lab fees, and required textbooks. 
+* The $5,250 limit aligns with the IRS Section 127 maximum for tax-free educational assistance. 
+* Late registration fees, graduation fees, parking passes, and optional study materials are strictly non-reimbursable.
+
+## 6. Academic Performance Requirements
+Reimbursement under the Tuition Assistance Program is strictly contingent upon the employee's academic performance. The organization operates on a sliding scale for reimbursement based on the final grade achieved in each specific course.
+
+### 6.1 Undergraduate Programs (B.A., B.S.)
+* Grade A (or equivalent): 100% Reimbursement
+* Grade B (or equivalent): 100% Reimbursement
+* Grade C (or equivalent): 50% Reimbursement
+* Grade D, F, or Incomplete: 0% Reimbursement
+* Pass/Fail Courses: "Pass" yields 100% reimbursement.
+
+### 6.2 Graduate Programs (M.S., MBA, Ph.D.)
+* Grade A (or equivalent): 100% Reimbursement
+* Grade B (or equivalent): 100% Reimbursement
+* Grade C, D, F, or Incomplete: 0% Reimbursement (Graduate programs require a B or higher for any corporate subsidization).
+
+## 7. Reimbursement Workflows
+The tuition reimbursement process is heavily audited and must be followed sequentially.
+
+1. **Pre-Approval:** The employee must submit a "Tuition Approval Form" via Workday to their manager and HR *at least 15 days before the course begins*.
+2. **Out-of-Pocket Payment:** The employee is responsible for paying the university directly upfront. The organization will not pay institutions directly.
+3. **Completion and Submission:** Within forty-five (45) days of the course's completion date, the employee must submit an expense report containing:
+    * The approved pre-authorization form.
+    * An itemized receipt of tuition paid showing a zero balance.
+    * An official university transcript displaying the final grade.
+
+## 8. Repayment and Retention (The "Clawback" Clause)
+The Tuition Assistance Program is an investment in the organization's future workforce. Consequently, employees who utilize this benefit are subject to a retention agreement.
+
+If an employee's employment is terminated (either voluntarily by resignation, or involuntarily for cause) after receiving tuition reimbursement, the employee must repay the organization according to the following schedule:
+* **0 to 12 Months:** If the departure occurs within 12 months of the *payout date* of the reimbursement, the employee must repay **100%** of the reimbursed funds.
+* **12 to 24 Months:** If the departure occurs between 12 and 24 months of the payout date, the employee must repay **50%** of the reimbursed funds.
+* **After 24 Months:** If the departure occurs more than 24 months after the payout date, the debt is fully forgiven, and **0%** repayment is required.
+
+*Deduction Authorization:* By participating in the TAP, the employee explicitly authorizes the organization to deduct any owed tuition repayments from their final paycheck, severance payout, or accrued PTO payout (subject to local state labor laws).
+
+## 9. Cross-References and Taxation
+* Educational benefits may be subject to varying tax treatments depending on the employee's global jurisdiction. It is the employee's responsibility to consult with a personal tax advisor. 
+* Employees studying during standard business hours must utilize standard PTO or negotiate a flexible working arrangement as outlined in the *HR Leave and Absence Policy (HR-POL-4001-V6)*. Time spent attending classes or completing coursework is not considered compensable working time.
