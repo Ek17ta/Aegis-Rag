@@ -12,6 +12,8 @@ Pipeline:
 import os
 import re
 import hashlib
+import tempfile
+
 from pathlib import Path
 from typing import List, Dict, Any, Optional
 
@@ -26,7 +28,7 @@ from langchain_community.vectorstores import Chroma
 # ─────────────────────────────────────────────────────────────────────────────
 
 DOCS_DIR = Path(__file__).parent / "docs"
-CHROMA_DIR = Path(__file__).parent / "chroma_db"
+CHROMA_DIR = Path(tempfile.gettempdir()) / "chroma_db"
 COLLECTION_NAME = "enterprise_policies"
 
 CHUNK_OVERLAP_RATIO = 0.12          # 12% overlap between sequential chunks
