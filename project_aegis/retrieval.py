@@ -88,6 +88,11 @@ def detect_intent_category(query: str, llm: ChatOpenAI) -> Optional[str]:
          "Classify the following employee question into the SINGLE most relevant "
          "corporate policy category, or say 'General' if it spans multiple. "
          f"Categories: {', '.join(POLICY_CATEGORIES)}. "
+         "Important hints: questions about stipends, L&D budget, tuition, certifications, "
+         "conferences, job levels, individual contributors, managers, TAP, clawback, "
+         "academic performance → Learning. "
+         "Questions about phishing, passwords, MFA, data tiers, BYOD → Security. "
+         "Questions about flights, hotels, per diem → Travel. "
          "Reply with ONLY the category name, nothing else."),
         ("human", "{query}"),
     ])
