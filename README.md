@@ -1,2 +1,2 @@
-# Aegis-_rag
+# Aegis-rag
 Rag pipeline
